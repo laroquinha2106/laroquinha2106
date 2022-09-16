@@ -4,5 +4,5 @@
 - jogo futebol desde os meus 8 anos
 - moro com meus pais e uma irmã
 - tenho 4 sobrinhos    
-- 
+- estou aprendendo programação pela aula de oficinas tecnológicas
 - 
